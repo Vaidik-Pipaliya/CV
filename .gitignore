@@ -1,0 +1,27 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large Model weights (can be re-downloaded via ultralytics automatically)
+*.pt
+
+# IDE / Editor configurations
+.vscode/
+.idea/
+
