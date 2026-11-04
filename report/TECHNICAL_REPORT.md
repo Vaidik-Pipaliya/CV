@@ -4,7 +4,7 @@
 **Student Name:** Vaidik Pipaliya  
 **Faculty / Evaluator:** Prof. Rahul Inchal (`rahul.inchal.inchal24@gmail.com`, `rahul.inchal.vf@mitwpu.edu.in`)  
 **Repository URL:** [https://github.com/Vaidik-Pipaliya/CV](https://github.com/Vaidik-Pipaliya/CV)  
-**Project Explanation Video (Google Drive):** *[Insert Your Google Drive Video Link Here]*  
+**Project Explanation Video (Google Drive):** (https://drive.google.com/file/d/1GHruoi7ZpSlgkjPzQiNEh6TAbYZhfBLw/view?usp=sharing) 
 
 ---
 
